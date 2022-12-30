@@ -1,6 +1,6 @@
 ## Hello, I'm [Tukaram-Maghade!](https://github.com/Tukaram-Maghade) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhark&label=Views&color=blue&style=plastic" alt="harkpun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhark&label=Views&color=blue&style=plastic" alt="https://github.com/Tukaram-Maghade" /> </p>
 
 
 <a href="https:"https://github.com/Tukaram-Maghade">
@@ -23,7 +23,7 @@
        
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> 
 
 
